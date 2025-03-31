@@ -5,8 +5,8 @@
 1. open the ssh tool
 2. ssh the server: 
 ```
-ssh vldb_test@221.228.10.210
-password: 123456
+ssh vldb_test@221.228.xx.xxx
+password: 12345x
 ```
 ##### 2. Run the rasterization example
 1. Use the following command to run the example: 
